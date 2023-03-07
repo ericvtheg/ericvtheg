@@ -1,21 +1,22 @@
 # Hi there 👋
 
-I'm Eric, a backend developer and cloud infrastructure architect. I'm passionate about creating robust, scalable, and efficient systems that power web and mobile applications. 🌟
+I'm Eric. I consider myself a highly driven and goal oriented person. I have a passion for engineering and architecting systems that solve problems for _people_.
 
 ## Skills and Expertise 🔧
 
-- Backend development
-- Cloud infrastructure architecture
-- API design and implementation
-- Distributed systems
-- Containerization and orchestration
+I strive to create simple solutions for complex problems through:
+- Cloud architecture
+- API design
+- Fullstack development
+- Data stewardship
 
-## Programming Languages and Technologies 💻
+## Programming Languages 💻
 
-- TypeScript
+- TypeScript ♥️
 
 ## Projects 🚀
 
+<!-- Would like this to be more personal project geared as well -->
 - Workout data aggregation and analysis tool: Developed a backend system to collect and process workout data from various sources, and a web interface for users to view and analyze their workout history.
 
 ## Current Work and Future Goals 📈
@@ -26,18 +27,7 @@ I'm Eric, a backend developer and cloud infrastructure architect. I'm passionate
 
 ## Hobbies and Interests 💡
 
-- DJing: passionate about mixing and creating new music.
-- Cooking: enjoy experimenting with new recipes and cuisines.
+- DJing: passionate about mixing and interacting with music.
+- Cooking: enjoy eating healthy and saving money.
 - Personal development: strive to make the most out of each day by setting and achieving daily goals that compound over time.
 - Travelling: enjoy exploring new places and learning about different cultures.
-
-## Collaboration and Contributions 🤝
-
-- Open to collaborating on projects and contributing to open-source projects to learn from other developers and help improve the community.
-- Interested in contributing to open-source projects, but unsure of where to start or what repositories to explore.
-- Hoping to eventually create an open-source project of my own in the form of an npm module.
-
-## Contact Information 📬
-
-- Email: ericventor97@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ericventor/
