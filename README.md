@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Eric, a backend developer and cloud infrastructure architect. I'm passionate about creating reliable, scalable, and efficient systems that power web and mobile applications. 🌟
+I'm Eric, a backend developer and cloud infrastructure architect. I'm passionate about creating robust, scalable, and efficient systems that power web and mobile applications. 🌟
 
 ## Skills and Expertise 🔧
 
