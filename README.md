@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm [Your Name], a backend developer and cloud infrastructure architect. I'm passionate about creating reliable, scalable, and efficient systems that power web and mobile applications. 🌟
+I'm Eric, a backend developer and cloud infrastructure architect. I'm passionate about creating reliable, scalable, and efficient systems that power web and mobile applications. 🌟
 
 ## Skills and Expertise 🔧
 
@@ -13,7 +13,6 @@ I'm [Your Name], a backend developer and cloud infrastructure architect. I'm pas
 ## Programming Languages and Technologies 💻
 
 - TypeScript
-- (You can add more languages and technologies here as well)
 
 ## Projects 🚀
 
@@ -42,5 +41,3 @@ I'm [Your Name], a backend developer and cloud infrastructure architect. I'm pas
 
 - Email: ericventor97@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ericventor/
-
-Please let me know if there's anything else you'd like to add or modify.
