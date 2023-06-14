@@ -30,4 +30,3 @@ I strive to create simple solutions for complex problems through:
 - DJing: passionate about mixing and interacting with music.
 - Cooking: enjoy eating healthy and saving money.
 - Personal development: strive to make the most out of each day by setting and achieving daily goals that compound over time.
-- Travelling: enjoy exploring new places and learning about different cultures.
